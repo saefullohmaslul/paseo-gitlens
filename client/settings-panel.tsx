@@ -302,6 +302,7 @@ export function SettingsPanel({
                     minHeight: 44,
                     paddingHorizontal: 4,
                     paddingVertical: 6,
+                    flexDirection: "column",
                     alignItems: "center",
                     justifyContent: "center",
                     gap: 4,
